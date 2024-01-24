@@ -199,3 +199,4 @@ generateBtn.addEventListener('click',()=>{
     calcStrength();
 
 })
+
