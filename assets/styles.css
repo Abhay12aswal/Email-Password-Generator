@@ -70,7 +70,7 @@ h1 {
     letter-spacing: 1px;
     padding-right: 3.25rem;
     border:none;
-  }
+}
   
 .display::placeholder {
     position:absolute;
@@ -151,7 +151,7 @@ h1 {
     color: var(--vb-yellow);
     font-weight: 600;
     font-size: 1.25rem;
-  }
+}
 
 .check {
     display: flex;
